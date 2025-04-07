@@ -1,1 +1,7 @@
 Hi this a Github learning.
+git branch branchname -- this will create the new branch
+git branch -- this will give all the branch names
+git cherry-pick -- merge three branches
+git merge or git rebase
+
+
